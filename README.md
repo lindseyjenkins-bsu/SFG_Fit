@@ -2,7 +2,12 @@
 
 Fitting of Sum-Frequency-Generation Spectra
 
-Authors: Jenee Cyran, Lindsey Jenkins, Oliviero Andreussi
+Authors: 
+Jenee Cyran, Lindsey Jenkins, and Oliviero Andreussi
+From Boise State
+
+Tiara Sivells and Pranav Viswanathan
+From Baylor University
 
 Use MINUIT to fit non-resonant and multiple resonant peaks from SFG Spectra
 
